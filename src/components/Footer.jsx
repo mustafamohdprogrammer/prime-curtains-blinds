@@ -1,9 +1,3 @@
-import {
-  FaWhatsapp,
-  FaPhoneAlt,
-  FaInstagram
-} from "react-icons/fa";
-
 function Footer() {
   return (
     <footer className="footer">
@@ -42,8 +36,7 @@ function Footer() {
           <h4>Contact</h4>
 
           <a href="tel:9849297191">
-            <FaPhoneAlt />
-            9849297191
+            📞 9849297191
           </a>
 
           <a
@@ -51,8 +44,7 @@ function Footer() {
             target="_blank"
             rel="noreferrer"
           >
-            <FaWhatsapp />
-            WhatsApp
+            💬 WhatsApp
           </a>
 
           <a
@@ -60,8 +52,7 @@ function Footer() {
             target="_blank"
             rel="noreferrer"
           >
-            <FaInstagram />
-            Instagram
+            📷 Instagram
           </a>
 
         </div>
@@ -69,10 +60,7 @@ function Footer() {
       </div>
 
       <div className="footer-bottom">
-
-        © 2026 Prime Curtains & Blinds.
-        All Rights Reserved.
-
+        © 2026 Prime Curtains & Blinds. All Rights Reserved.
       </div>
 
     </footer>
