@@ -6,14 +6,6 @@ function Hero() {
 
       <div className="hero-content">
 
-        {/* <div className="trust-badge">
-          ★★★★★ Trusted by 500+ Homeowners
-        </div> */}
-
-        {/* <p className="subtitle">
-          PREMIUM CURTAINS & BLINDS
-        </p> */}
-
         <h1>
           Transform Your Space
           <span> With Timeless Elegance</span>
@@ -42,7 +34,7 @@ function Hero() {
         <div className="hero-stats">
 
           <div>
-            <h3>200+</h3>
+            <h3>500+</h3>
             <p>Projects</p>
           </div>
 
